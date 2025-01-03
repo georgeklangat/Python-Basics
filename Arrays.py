@@ -17,6 +17,6 @@ courses.append("Web development")
 print(courses)
 
 
-# Deleting and element
+# Deletingfile and element
 courses.remove("MIT")
 print(courses)
