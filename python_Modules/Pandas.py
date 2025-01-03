@@ -24,3 +24,7 @@ df = pd.DataFrame(data2)
 print(df)
 print(df.loc[0]) # accessing the 1st row
 print(df.iloc[0:]) # accessing all the rows
+
+print(df.info()) # give more information about the dataframe
+print(df.tail(3)) # -return headers and specified number of rows from the bottom
+print(df.head(1)) # return headers and specified number of row from the top
