@@ -1,0 +1,6 @@
+cars,passings,price_per_unit,total_price,Price/2,passings*2
+BMW,3,50000,150000,25000.0,6
+Volvo,7,40000,280000,20000.0,14
+Ford,2,30000,60000,15000.0,4
+Toyota,5,45000,225000,22500.0,10
+Tesla,10,60000,600000,30000.0,20
