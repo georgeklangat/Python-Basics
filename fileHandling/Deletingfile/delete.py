@@ -1,6 +1,7 @@
+# Deleting a file
 import os
 
-file_name = "example1.txt"
+file_name = 'example1.txt'
 
 if os.path.exists(file_name):
     os.remove(file_name)

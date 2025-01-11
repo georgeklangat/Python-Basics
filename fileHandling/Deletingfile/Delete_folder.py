@@ -1,3 +1,4 @@
+# Deleting a folder
 import os
 
 folder_name = "test_folder"
