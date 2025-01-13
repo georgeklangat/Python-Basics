@@ -5,5 +5,5 @@
 # If the file does not exist, it is created.
 
 f = open("readfile.txt","a")
-f.write("Welcome to the world of coding, make sure you enjoy it")
+f.write("Welcome to the world of coding, make sure you enjoy it right!")
 f.close()
